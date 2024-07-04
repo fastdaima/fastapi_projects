@@ -1,3 +1,5 @@
+# reference https://github.com/LAION-AI/Open-Assistant/blob/main/backend/oasst_backend/api/deps.py
+
 from typing import Any
 from fastapi.middleware import Middleware
 import redis.asyncio as redis
